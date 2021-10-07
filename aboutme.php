@@ -43,10 +43,10 @@
 	<main class="container-fluid bg-dark text-white text-center">
 
 	<main>
-		<nav><a href=https://www.pu.edu.tw/ class="text-reset text-decoration-none text-white bg-primary">靜宜大學</a></nav>
+		<header><a href=https://www.pu.edu.tw/ class="text-reset text-decoration-none text-white bg-primary" target="_blank" id="I">靜宜大學</a></header>
 		<header><h1><a href="https://www.youtube.com/watch?v=HHkB50DClGc">
 
-		先看勞贖放鬆一下</a></h1></header>		
+		你看哪裡有勞贖</a></h1></header>		
 		<img src="184769.jpg" alt="照片" class="img-thumbnail" alt="Cinque Terre">
 		<h5>情況從糟糕變得難以理解.jpg</h5>	
 		<br><br><br>
